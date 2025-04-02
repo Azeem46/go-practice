@@ -1,1 +1,5 @@
 .env
+# Ignore Air's temporary files
+/tmp
+/build-error.log
+/main.exe
